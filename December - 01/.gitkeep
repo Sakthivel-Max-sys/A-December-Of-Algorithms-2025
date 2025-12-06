@@ -11,3 +11,11 @@ while i * i <= N:
 print()
 print(count)
 
+sample input 
+20
+
+sample output
+1 4 9 16
+4
+
+
