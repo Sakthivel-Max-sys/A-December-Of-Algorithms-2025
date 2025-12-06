@@ -16,8 +16,13 @@ for i in range(1, N + 1):
 
 
 sample input
-20
+6
 
 sample output
-1 4 9 16
-4
+    1     1     1      1
+    2     2     2     10
+    3     3     3     11
+    4     4     4    100
+    5     5     5    101
+    6     6     6    110
+
